@@ -1,7 +1,5 @@
 # Credit Risk Modelling
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
 ## Introduction
 Credit risk modelling refers to estimating the risk associated with lending credit to a borrower. If a lender fails to detect credit risk in advance, it exposes them to the risk of default and loss of funds. Therefore, lenders rely on the validation provided by credit risk analysis models to make key lending decisions, such as whether or not to extend credit to a borrower and what interest rate should be charged.
 
